@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+DE+Grund:wght@100..400&display=swap');
+*{
+font-family: "Playwrite DE Grund", cursive;
+}
+body{
+    background: #2f354f;
+    color : white;
+}
+header{
+    background: #eb9cff;
+}
+header.logo{
+    margin: 0;
+    padding: 0;
+}
+.container {
+  background: #100f51;
+  color: #2ba4d9;
+  margin: 30px auto;
+  width: 70vw;
+}
+
+
